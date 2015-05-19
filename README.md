@@ -52,6 +52,8 @@ This is a work in progress; suggestions and improvements are more than welcome! 
 
 - [ ] If the data is represented in a novel or unusual way, do you understand what it is you are looking at?
 
+- [ ] What is the "message" you get from the plot?
+
 ## Data analysis
 
 - [ ] What statistical tests are used? Do you understand (in essence) what they do?
