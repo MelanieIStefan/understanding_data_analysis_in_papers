@@ -8,7 +8,8 @@ This is a work in progress; suggestions and improvements are more than welcome! 
 
 ## Experimental Design and Data collection
 
-- [ ] What is the sample size? Did the authors do a power analysis to convince you that it is large enough?
+- [ ] What is the sample size? What did the authors do to convince you that is it large enough? (E.g. power analysis)
+
 
 - [ ] What is the research question? What is the hypothesis? What is the corresponding Null Hypothesis?
 
